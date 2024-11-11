@@ -5,16 +5,25 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="x5c_Fmgo2Edh-NOIzDAB-1" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#C925D1;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.rds_instance;" vertex="1" parent="1">
-          <mxGeometry x="80" y="90" width="78" height="78" as="geometry" />
+          <mxGeometry x="80" y="50" width="78" height="78" as="geometry" />
         </mxCell>
         <mxCell id="x5c_Fmgo2Edh-NOIzDAB-5" value="" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#7AA116;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.s3;" vertex="1" parent="1">
-          <mxGeometry x="40" y="310" width="78" height="78" as="geometry" />
+          <mxGeometry x="20" y="390" width="78" height="78" as="geometry" />
         </mxCell>
         <mxCell id="x5c_Fmgo2Edh-NOIzDAB-6" value="" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#7AA116;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.s3;" vertex="1" parent="1">
           <mxGeometry x="360" y="350" width="78" height="78" as="geometry" />
         </mxCell>
         <mxCell id="x5c_Fmgo2Edh-NOIzDAB-7" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#505050;shape=mxgraph.mscae.intune.data_migration_wizard" vertex="1" parent="1">
           <mxGeometry x="150" y="240" width="50" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="x5c_Fmgo2Edh-NOIzDAB-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="x5c_Fmgo2Edh-NOIzDAB-8" target="x5c_Fmgo2Edh-NOIzDAB-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x5c_Fmgo2Edh-NOIzDAB-8" value="RGP RDW RDS Postgres Instance&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="140" width="201" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="x5c_Fmgo2Edh-NOIzDAB-10" value="AWS managed Data Migration Service&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="288" width="220" height="22" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
